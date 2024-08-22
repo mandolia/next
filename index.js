@@ -8,6 +8,13 @@ export const index = () => {
    <div>index</div>
     <div>index</div>
      <div>index</div>
+     <div>Feature/hastag</div>
+   <div>index</div>
+   <div>index</div>
+    <div>index</div>
+     <div>index</div>
+      <div>index</div> 
+      <div>index</div>
       <div>index</div> 
       <div>index</div> <div>index</div>
 
