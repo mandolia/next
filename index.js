@@ -4,6 +4,14 @@ export const index = () => {
   return (<>
      <div>index</div>
      <div>Feature/hastag</div>
+
+   <div>index</div>
+   <div>index</div>
+    <div>index</div>
+     <div>index</div>
+      <div>index</div> 
+      <div>index</div>
   </>
+   
   )
 }
